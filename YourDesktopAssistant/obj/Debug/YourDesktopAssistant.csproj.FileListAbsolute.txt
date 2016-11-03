@@ -1,0 +1,9 @@
+c:\users\dastagir\documents\visual studio 2015\Projects\YourDesktopAssistant\YourDesktopAssistant\bin\Debug\YourDesktopAssistant.exe.config
+c:\users\dastagir\documents\visual studio 2015\Projects\YourDesktopAssistant\YourDesktopAssistant\bin\Debug\YourDesktopAssistant.exe
+c:\users\dastagir\documents\visual studio 2015\Projects\YourDesktopAssistant\YourDesktopAssistant\bin\Debug\YourDesktopAssistant.pdb
+c:\users\dastagir\documents\visual studio 2015\Projects\YourDesktopAssistant\YourDesktopAssistant\obj\Debug\YourDesktopAssistant.csprojResolveAssemblyReference.cache
+c:\users\dastagir\documents\visual studio 2015\Projects\YourDesktopAssistant\YourDesktopAssistant\obj\Debug\YourDesktopAssistant.Form1.resources
+c:\users\dastagir\documents\visual studio 2015\Projects\YourDesktopAssistant\YourDesktopAssistant\obj\Debug\YourDesktopAssistant.Properties.Resources.resources
+c:\users\dastagir\documents\visual studio 2015\Projects\YourDesktopAssistant\YourDesktopAssistant\obj\Debug\YourDesktopAssistant.csproj.GenerateResource.Cache
+c:\users\dastagir\documents\visual studio 2015\Projects\YourDesktopAssistant\YourDesktopAssistant\obj\Debug\YourDesktopAssistant.exe
+c:\users\dastagir\documents\visual studio 2015\Projects\YourDesktopAssistant\YourDesktopAssistant\obj\Debug\YourDesktopAssistant.pdb
